@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Java
+- text: EScript
+- text: ECMAScript
+- text: JavaScript
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8019#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 01 Sep 2022 16:14:25 UTC
+record: -1
+selected_options:
+- 2
+local_check: false
